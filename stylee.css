@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 100px;
+}
+h1{
+  font-family: Impact;
+  font-size: 80px;
+  align-items: center;
+}
+p{
+  font-size: 35px;
+}
+.btn{
+  background-color: blue;
+  color: white;
+  width: 250px;
+  height: 100px;
+  text-align: center;
+}
+.btn:hover{
+  background-color: #008000;
+}
